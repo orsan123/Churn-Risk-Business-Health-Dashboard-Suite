@@ -36,25 +36,25 @@ Can customer churn be spotted early?
 ### Monthly Business Health Dashboard 
 **Provides a monthly executive view of business health by tracking revenue, transactions, active companies, and overall growth trends.*
 
-[![image alt] [file:///C:/Users/pc/OneDrive/Documents/CorporateCardsDataProject/dashboard_videos/Overall%20Business%20Health%20Monthly%20.mp4]](https://github.com/user-attachments/assets/3bb68632-383c-4b4c-b111-67c81843159f)
+https://github.com/user-attachments/assets/0a82233e-49e7-43d6-afa5-87dbd5fa09b1
 
 
 ### Active Company Engagement   
 **Monitors the quality of engagement among active customers by identifying highly engaged, medium-engaged, and under-engaged accounts.*
 
-https://github.com/user-attachments/assets/65f1bde5-18ba-4fab-9a75-83696701daaf
 
+https://github.com/user-attachments/assets/e24fb3fc-fd2c-427f-ac1c-1d381eed0a1d
 
 ### Churn Risk Dashboard
 **Detects early churn risk by benchmarking new customers against retained company behavior and flagging accounts that need proactive intervention.*
 
-https://github.com/user-attachments/assets/5ca1c5bc-9281-467c-94fe-62624f271035
+https://github.com/user-attachments/assets/dcaa987c-6d66-45ec-8ee2-587de9d016da
 
 
 ### Monthly Support Tickets Dashboard
 **Tracks customer support activity, issue resolution, and operational bottlenecks to improve service quality and reduce retention risks caused by unresolved problems.*
 
-https://github.com/user-attachments/assets/331aa66e-d017-473d-81b0-aebc53f75c6f
+https://github.com/user-attachments/assets/cfa4a883-379d-4259-89ed-11987888450b
 
 
 

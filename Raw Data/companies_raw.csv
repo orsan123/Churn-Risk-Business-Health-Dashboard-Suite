@@ -1,0 +1,55 @@
+company_id,company_name,industry,company_size,kyb_approval_date,account_manager,plan
+CO001,Oryx Zafir Consulting Ltd,Healthcare,Enterprise,2023-04-25,Sarah Al Mansoori,Enterprise
+CO002,Amal Solutions LLC,Logistics,SMB,2023-03-31,James Thornton,Enterprise
+CO003,Wadi Networks LLC,Retail,Mid-Market,2023-01-28,Laura Bianchi,Premium
+CO004,Oryx Amal Capital Co.,Healthcare,SMB,2023-01-07,Aisha Khalid,Free
+CO005,Vantage Digital LLC,Media,Mid-Market,2023-04-05,Sarah Al Mansoori,Premium
+CO006,Vantage Networks Co.,Media,Mid-Market,2023-05-08,Laura Bianchi,Free
+CO007,Crescent Rayhan Logistics FZE,Retail,SMB,2023-03-13,Rohan Mehta,Premium
+CO008,Nahda Group LLC,Consulting,SMB,2024-04-09,Aisha Khalid,Free
+CO009,Rayhan Group FZE,E-commerce,Mid-Market,2023-06-25,Laura Bianchi,Free
+CO010,Emirates Reem Capital LLC,Manufacturing,SMB,2023-11-29,James Thornton,Enterprise
+CO011,Crescent Masdar Systems FZE,Healthcare,Mid-Market,2023-11-19,James Thornton,Free
+CO012,Murad Services LLC,Consulting,SMB,2023-09-27,James Thornton,Enterprise
+CO013,Dune Reem Dynamics FZCO,Healthcare,Enterprise,2024-05-20,Rohan Mehta,Enterprise
+CO014,Meridian Commerce FZE,Real Estate,Mid-Market,2023-03-07,Laura Bianchi,Free
+CO015,Suhail Trading LLC,Logistics,Mid-Market,2023-04-28,Rohan Mehta,Free
+CO016,Oryx Zafir Resources FZCO,Real Estate,SMB,2024-04-09,Aisha Khalid,Enterprise
+CO017,Arabia Safa Networks LLC,Media,Mid-Market,2023-07-23,Rohan Mehta,Free
+CO018,Summit Consulting LLC,Retail,Enterprise,2023-04-25,Sarah Al Mansoori,Free
+CO019,Dune Suhail Partners FZCO,Finance,Enterprise,2024-05-12,James Thornton,Premium
+CO020,Amal Innovations Ltd,Manufacturing,Mid-Market,2024-06-24,Aisha Khalid,Premium
+CO021,Vantage Consulting Ltd,Logistics,Mid-Market,2024-06-13,Sarah Al Mansoori,Enterprise
+CO022,Rayhan Ventures FZE,SaaS,SMB,2023-08-24,Sarah Al Mansoori,Free
+CO023,Falcon Rayhan Trading FZE,Retail,Enterprise,2023-12-05,James Thornton,Enterprise
+CO024,Dune Masdar Services Ltd,Logistics,SMB,2024-04-29,Rohan Mehta,Premium
+CO025,Elevate Solutions FZE,SaaS,Mid-Market,2024-03-09,Aisha Khalid,Free
+CO026,Emirates Suhail Holdings FZCO,E-commerce,SMB,2023-09-12,Aisha Khalid,Premium
+CO027,Desert Suhail Dynamics LLC,Real Estate,SMB,2023-09-13,Sarah Al Mansoori,Free
+CO028,Elevate Enterprises Ltd,E-commerce,SMB,2023-06-20,James Thornton,Premium
+CO029,Summit Holdings Co.,E-commerce,Enterprise,2023-01-03,Laura Bianchi,Premium
+CO030,Gulf Wadi Solutions LLC,Consulting,SMB,2023-06-08,Sarah Al Mansoori,Enterprise
+CO031,Qamar Group LLC,Real Estate,SMB,2024-05-03,James Thornton,Free
+CO032,Rayhan Systems FZE,Media,SMB,2023-03-11,Laura Bianchi,Enterprise
+CO033,Majd Services LLC,Manufacturing,SMB,2023-02-10,Aisha Khalid,Free
+CO034,Nexus Logistics FZE,Consulting,SMB,2023-09-29,Sarah Al Mansoori,Premium
+CO035,Falcon Wadi Resources Co.,Healthcare,Mid-Market,2023-04-13,Sarah Al Mansoori,Free
+CO036,Nexus Holdings Co.,Media,Enterprise,2024-01-14,Laura Bianchi,Free
+CO037,Fajr Partners Co.,Logistics,SMB,2023-11-03,Laura Bianchi,Free
+CO038,Nova Innovations LLC,Retail,Enterprise,2023-10-06,Aisha Khalid,Enterprise
+CO039,Peak Technologies LLC,Manufacturing,SMB,2024-05-15,Sarah Al Mansoori,Premium
+CO040,Zafir Group FZE,Real Estate,Enterprise,2023-05-14,Rohan Mehta,Enterprise
+CO041,Al Buraq Networks LLC,Consulting,Enterprise,2023-01-10,Laura Bianchi,Free
+CO042,Al Badr Digital LLC,Consulting,SMB,2024-03-16,James Thornton,Free
+CO043,Amal Commerce FZCO,Retail,SMB,2023-12-29,James Thornton,Premium
+CO044,Oryx Sharq Services Ltd,Manufacturing,SMB,2023-01-26,Sarah Al Mansoori,Premium
+CO045,Apex Innovations FZE,Consulting,Mid-Market,2023-02-09,James Thornton,Free
+CO046,Wadi Systems LLC,Manufacturing,SMB,2023-01-25,Aisha Khalid,Premium
+CO047,Arcadia Capital LLC,Logistics,Mid-Market,2024-06-05,James Thornton,Enterprise
+CO048,Al Nakheel Services LLC,Consulting,Mid-Market,2023-09-29,Laura Bianchi,Enterprise
+CO049,Nova Innovations Co.,SaaS,Enterprise,2023-04-29,Rohan Mehta,Free
+CO050,Wadi Digital LLC,Logistics,Enterprise,2024-06-16,Aisha Khalid,Enterprise
+CO021,VANTAGE CONSULTING LTD,Logistics,Mid-Market,2024-06-13,Sarah Al Mansoori,Enterprise
+CO043,AMAL COMMERCE FZCO,Retail,SMB,2023-12-29,James Thornton,Premium
+CO008,NAHDA GROUP LLC,Consulting,SMB,2024-04-09,Aisha Khalid,Free
+CO047,ARCADIA CAPITAL LLC,Logistics,Mid-Market,2024-06-05,James Thornton,Enterprise

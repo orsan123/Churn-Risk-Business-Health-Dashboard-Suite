@@ -1,0 +1,214 @@
+ticket_id,company_id,ticket_type,priority,status,created_date,resolved_date,agent,satisfaction_score
+TKT00001,CO001,Activation Issue,Medium,open,2024-03-02,,Support_A,1.0
+TKT00002,CO001,Onboarding Help,Critical,in_progress,2023-11-08,2023-11-19,Support_A,
+TKT00003,CO003,Statement Query,Medium,resolved,2024-06-25,,Support_B,4.0
+TKT00004,CO003,Onboarding Help,Medium,open,2023-12-03,2023-12-10,Support_D,3.0
+TKT00005,CO003,Billing Dispute,Medium,resolved,2023-08-25,,Support_C,2.0
+TKT00006,CO003,Limit Increase Request,High,closed,2023-10-07,2023-10-11,Support_D,3.0
+TKT00007,CO003,Onboarding Help,Medium,resolved,2024-01-10,2024-01-11,Support_C,1.0
+TKT00008,CO003,Statement Query,High,open,2023-06-07,2023-06-16,Support_C,5.0
+TKT00009,CO003,Card Declined,Critical,resolved,2023-08-27,2023-09-06,Support_D,2.0
+TKT00010,CO003,Onboarding Help,Medium,resolved,2023-12-05,,Support_D,1.0
+TKT00011,CO003,Statement Query,Critical,resolved,2024-06-27,2024-07-03,Support_D,1.0
+TKT00012,CO003,Billing Dispute,Medium,closed,2024-02-24,2024-03-07,Support_B,2.0
+TKT00013,CO003,Onboarding Help,High,open,2024-05-27,2024-06-10,Support_A,1.0
+TKT00014,CO004,Card Declined,Medium,in_progress,2024-04-21,,Support_A,3.0
+TKT00015,CO005,Technical Issue,Critical,resolved,2024-01-31,,Support_D,1.0
+TKT00016,CO005,Onboarding Help,Low,open,2023-09-30,,Support_C,2.0
+TKT00017,CO005,Activation Issue,Medium,resolved,2024-02-15,2024-03-05,Support_B,
+TKT00018,CO006,Limit Increase Request,Critical,closed,2023-11-17,2023-11-29,Support_C,3.0
+TKT00019,CO006,Technical Issue,Medium,resolved,2023-11-18,2023-11-29,Support_B,1.0
+TKT00020,CO006,Limit Increase Request,High,closed,2024-03-04,,Support_C,
+TKT00021,CO007,Activation Issue,Medium,open,2024-03-28,2024-04-10,Support_D,1.0
+TKT00022,CO007,Card Declined,Critical,resolved,2024-03-13,2024-03-26,Support_C,3.0
+TKT00023,CO007,Limit Increase Request,Medium,resolved,2023-07-09,2023-07-22,Support_A,4.0
+TKT00024,CO007,Technical Issue,Low,in_progress,2023-08-14,,Support_B,4.0
+TKT00025,CO007,Activation Issue,Low,resolved,2024-02-15,2024-03-02,Support_D,
+TKT00026,CO008,Technical Issue,Medium,in_progress,2023-12-02,2023-12-13,Support_A,
+TKT00027,CO008,Activation Issue,Medium,resolved,2024-03-24,2024-04-03,Support_C,2.0
+TKT00028,CO008,Card Declined,Critical,open,2024-03-07,2024-03-27,Support_A,1.0
+TKT00029,CO010,Limit Increase Request,Critical,open,2024-04-01,,Support_B,4.0
+TKT00030,CO010,Fraud Alert,High,in_progress,2024-02-17,2024-02-28,Support_B,4.0
+TKT00031,CO011,Onboarding Help,Critical,resolved,2023-09-10,2023-09-26,Support_B,1.0
+TKT00032,CO011,Card Declined,High,resolved,2024-06-01,2024-06-18,Support_C,
+TKT00033,CO011,Onboarding Help,Critical,in_progress,2023-10-02,2023-10-21,Support_D,5.0
+TKT00034,CO011,Billing Dispute,Low,open,2024-06-01,,Support_A,1.0
+TKT00035,CO012,Activation Issue,Medium,open,2024-01-28,2024-02-03,Support_A,2.0
+TKT00036,CO012,Fraud Alert,Critical,open,2023-12-15,2023-12-30,Support_B,1.0
+TKT00037,CO012,Billing Dispute,Low,closed,2023-08-07,2023-08-11,Support_A,4.0
+TKT00038,CO012,Limit Increase Request,Medium,closed,2024-06-19,2024-06-25,Support_C,5.0
+TKT00039,CO012,Statement Query,Medium,open,2024-03-05,2024-03-08,Support_D,2.0
+TKT00040,CO013,Onboarding Help,Medium,closed,2023-07-30,2023-08-04,Support_A,5.0
+TKT00041,CO013,Statement Query,Medium,open,2024-03-17,2024-04-05,Support_A,1.0
+TKT00042,CO013,Statement Query,Low,resolved,2023-07-06,2023-07-12,Support_D,
+TKT00043,CO013,Card Declined,Low,resolved,2023-08-26,2023-09-13,Support_D,1.0
+TKT00044,CO013,Activation Issue,High,open,2023-08-30,2023-09-18,Support_A,3.0
+TKT00045,CO013,Limit Increase Request,Critical,open,2023-12-16,2023-12-19,Support_D,4.0
+TKT00046,CO013,Billing Dispute,Low,in_progress,2023-08-13,,Support_C,1.0
+TKT00047,CO014,Statement Query,Medium,resolved,2024-03-09,2024-03-16,Support_B,3.0
+TKT00048,CO014,Billing Dispute,Critical,resolved,2023-06-14,2023-06-27,Support_C,1.0
+TKT00049,CO014,Fraud Alert,Critical,open,2023-06-19,2023-07-08,Support_D,2.0
+TKT00050,CO014,Statement Query,Low,in_progress,2023-06-19,,Support_A,2.0
+TKT00051,CO015,Limit Increase Request,Low,resolved,2023-06-16,2023-07-01,Support_C,1.0
+TKT00052,CO015,Statement Query,Critical,closed,2024-01-31,2024-02-07,Support_C,2.0
+TKT00053,CO015,Technical Issue,Medium,in_progress,2023-09-30,2023-10-08,Support_D,3.0
+TKT00054,CO015,Statement Query,Low,open,2023-09-11,2023-09-15,Support_A,5.0
+TKT00055,CO015,Technical Issue,Critical,in_progress,2023-10-31,2023-11-05,Support_A,1.0
+TKT00056,CO016,Fraud Alert,Critical,in_progress,2024-02-21,2024-02-25,Support_A,1.0
+TKT00057,CO016,Statement Query,High,closed,2023-09-24,2023-10-06,Support_C,
+TKT00058,CO016,Activation Issue,Low,resolved,2023-08-22,2023-09-08,Support_B,2.0
+TKT00059,CO017,Card Declined,Critical,open,2023-11-26,2023-12-13,Support_A,4.0
+TKT00060,CO017,Statement Query,Low,resolved,2024-06-27,2024-07-12,Support_D,4.0
+TKT00061,CO017,Fraud Alert,Critical,open,2024-01-29,2024-01-30,Support_D,
+TKT00062,CO017,Fraud Alert,Medium,closed,2023-08-21,2023-09-07,Support_C,4.0
+TKT00063,CO017,Onboarding Help,Medium,open,2024-03-02,,Support_B,1.0
+TKT00064,CO017,Onboarding Help,Low,open,2023-10-10,,Support_B,4.0
+TKT00065,CO017,Onboarding Help,Critical,in_progress,2024-05-10,2024-05-20,Support_A,3.0
+TKT00066,CO017,Onboarding Help,Low,closed,2023-10-28,,Support_C,3.0
+TKT00067,CO017,Statement Query,High,in_progress,2023-09-20,2023-09-30,Support_A,5.0
+TKT00068,CO019,Statement Query,High,closed,2023-06-10,,Support_B,3.0
+TKT00069,CO019,Fraud Alert,Medium,closed,2024-01-04,,Support_B,5.0
+TKT00070,CO019,Card Declined,Low,resolved,2023-10-09,2023-10-12,Support_C,3.0
+TKT00071,CO019,Fraud Alert,Critical,in_progress,2023-06-30,2023-07-04,Support_D,1.0
+TKT00072,CO019,Technical Issue,Low,closed,2023-08-17,,Support_C,1.0
+TKT00073,CO019,Card Declined,Medium,resolved,2024-02-07,2024-02-21,Support_C,2.0
+TKT00074,CO019,Activation Issue,Medium,in_progress,2023-11-19,2023-11-26,Support_A,4.0
+TKT00075,CO019,Card Declined,High,in_progress,2024-01-02,2024-01-08,Support_A,4.0
+TKT00076,CO019,Activation Issue,Critical,resolved,2023-12-07,2023-12-09,Support_D,5.0
+TKT00077,CO019,Fraud Alert,Medium,open,2023-06-19,2023-07-07,Support_D,2.0
+TKT00078,CO019,Technical Issue,Low,open,2024-04-10,2024-04-30,Support_B,5.0
+TKT00079,CO019,Technical Issue,Low,resolved,2024-01-03,2024-01-15,Support_A,4.0
+TKT00080,CO020,Technical Issue,High,closed,2024-06-04,2024-06-20,Support_C,4.0
+TKT00081,CO020,Fraud Alert,High,open,2023-08-26,2023-08-28,Support_A,
+TKT00082,CO020,Billing Dispute,High,closed,2023-11-04,2023-11-23,Support_A,5.0
+TKT00083,CO020,Technical Issue,Low,open,2024-03-23,,Support_B,5.0
+TKT00084,CO020,Fraud Alert,Medium,resolved,2023-11-24,2023-11-28,Support_C,
+TKT00085,CO020,Billing Dispute,Critical,in_progress,2023-11-18,2023-11-26,Support_A,5.0
+TKT00086,CO020,Card Declined,High,resolved,2024-06-25,,Support_B,5.0
+TKT00087,CO022,Onboarding Help,Medium,open,2023-09-08,2023-09-22,Support_B,1.0
+TKT00088,CO022,Fraud Alert,Low,open,2023-09-25,2023-10-12,Support_D,
+TKT00089,CO023,Activation Issue,Low,in_progress,2024-03-30,2024-04-02,Support_A,4.0
+TKT00090,CO023,Statement Query,Critical,in_progress,2023-07-22,2023-07-24,Support_C,3.0
+TKT00091,CO023,Activation Issue,High,resolved,2024-05-27,2024-06-10,Support_D,4.0
+TKT00092,CO024,Statement Query,High,closed,2024-04-25,2024-04-29,Support_D,4.0
+TKT00093,CO024,Billing Dispute,Critical,resolved,2024-04-07,2024-04-22,Support_D,2.0
+TKT00094,CO024,Limit Increase Request,Medium,in_progress,2023-08-24,,Support_B,4.0
+TKT00095,CO024,Activation Issue,Low,in_progress,2024-06-22,2024-07-12,Support_D,4.0
+TKT00096,CO025,Fraud Alert,Low,resolved,2023-07-26,,Support_C,2.0
+TKT00097,CO025,Technical Issue,Medium,resolved,2023-06-11,,Support_D,4.0
+TKT00098,CO025,Card Declined,High,open,2024-05-21,2024-06-04,Support_A,4.0
+TKT00099,CO025,Billing Dispute,Medium,closed,2023-06-04,2023-06-13,Support_B,4.0
+TKT00100,CO025,Limit Increase Request,Critical,resolved,2023-10-07,,Support_A,1.0
+TKT00101,CO026,Limit Increase Request,High,open,2024-02-25,,Support_B,3.0
+TKT00102,CO026,Technical Issue,Medium,closed,2024-05-11,2024-05-15,Support_A,1.0
+TKT00103,CO026,Fraud Alert,Critical,closed,2023-07-26,,Support_B,1.0
+TKT00104,CO026,Onboarding Help,Medium,in_progress,2024-01-14,2024-01-29,Support_C,1.0
+TKT00105,CO027,Technical Issue,High,closed,2023-11-26,,Support_B,1.0
+TKT00106,CO027,Statement Query,Medium,closed,2024-04-29,2024-05-12,Support_D,2.0
+TKT00107,CO027,Card Declined,High,resolved,2024-01-29,2024-01-30,Support_B,1.0
+TKT00108,CO027,Onboarding Help,Low,closed,2023-08-03,2023-08-15,Support_C,4.0
+TKT00109,CO027,Fraud Alert,Low,open,2023-06-06,2023-06-08,Support_B,3.0
+TKT00110,CO027,Billing Dispute,Medium,closed,2023-10-24,,Support_A,4.0
+TKT00111,CO027,Card Declined,Critical,resolved,2023-09-14,2023-09-27,Support_D,2.0
+TKT00112,CO027,Activation Issue,Low,resolved,2023-07-11,2023-07-18,Support_D,2.0
+TKT00113,CO028,Fraud Alert,High,open,2024-06-12,2024-06-13,Support_B,1.0
+TKT00114,CO028,Fraud Alert,Low,open,2024-04-24,2024-05-02,Support_D,3.0
+TKT00115,CO028,Billing Dispute,Critical,resolved,2024-02-06,2024-02-25,Support_D,5.0
+TKT00116,CO028,Onboarding Help,Medium,resolved,2023-07-20,2023-07-28,Support_D,
+TKT00117,CO030,Billing Dispute,High,resolved,2023-11-24,,Support_A,2.0
+TKT00118,CO030,Activation Issue,Critical,open,2023-07-16,2023-08-01,Support_B,2.0
+TKT00119,CO032,Card Declined,Medium,closed,2024-06-23,2024-07-06,Support_C,5.0
+TKT00120,CO032,Fraud Alert,Low,open,2023-06-08,2023-06-22,Support_C,
+TKT00121,CO032,Technical Issue,Critical,open,2023-06-16,2023-06-19,Support_B,5.0
+TKT00122,CO033,Statement Query,Medium,open,2024-01-14,2024-01-22,Support_B,2.0
+TKT00123,CO034,Statement Query,Medium,in_progress,2024-02-20,2024-03-05,Support_B,4.0
+TKT00124,CO034,Limit Increase Request,Medium,open,2024-03-29,2024-04-03,Support_D,2.0
+TKT00125,CO034,Technical Issue,Low,open,2024-04-19,2024-05-06,Support_C,4.0
+TKT00126,CO034,Billing Dispute,Medium,open,2024-05-10,,Support_D,4.0
+TKT00127,CO034,Fraud Alert,Critical,closed,2024-03-09,2024-03-28,Support_A,1.0
+TKT00128,CO035,Fraud Alert,High,closed,2023-08-17,2023-08-18,Support_A,2.0
+TKT00129,CO035,Limit Increase Request,Critical,resolved,2023-06-20,,Support_C,5.0
+TKT00130,CO035,Technical Issue,Medium,resolved,2024-01-15,2024-01-26,Support_D,5.0
+TKT00131,CO035,Technical Issue,Low,closed,2024-04-27,,Support_B,2.0
+TKT00132,CO036,Limit Increase Request,High,open,2023-12-26,2024-01-09,Support_B,4.0
+TKT00133,CO036,Card Declined,Critical,in_progress,2024-03-12,2024-03-31,Support_D,3.0
+TKT00134,CO036,Fraud Alert,Medium,closed,2023-07-09,2023-07-28,Support_D,
+TKT00135,CO037,Statement Query,Critical,open,2024-01-30,,Support_C,3.0
+TKT00136,CO037,Onboarding Help,Critical,in_progress,2023-09-22,2023-10-07,Support_B,
+TKT00137,CO037,Limit Increase Request,Critical,open,2024-04-08,2024-04-19,Support_B,4.0
+TKT00138,CO037,Billing Dispute,Medium,closed,2023-10-28,2023-11-16,Support_A,3.0
+TKT00139,CO037,Card Declined,Medium,in_progress,2023-08-06,2023-08-17,Support_D,4.0
+TKT00140,CO037,Onboarding Help,Medium,in_progress,2024-04-23,2024-04-27,Support_A,4.0
+TKT00141,CO038,Onboarding Help,Critical,resolved,2023-06-02,,Support_B,5.0
+TKT00142,CO038,Card Declined,High,resolved,2023-10-28,2023-11-14,Support_D,3.0
+TKT00143,CO038,Card Declined,Critical,in_progress,2023-07-17,2023-07-31,Support_C,1.0
+TKT00144,CO038,Onboarding Help,Low,closed,2023-06-08,2023-06-12,Support_B,5.0
+TKT00145,CO038,Billing Dispute,High,open,2023-09-14,2023-09-22,Support_B,
+TKT00146,CO039,Card Declined,Low,closed,2024-03-28,2024-04-09,Support_C,4.0
+TKT00147,CO039,Fraud Alert,Critical,resolved,2023-12-04,2023-12-20,Support_B,5.0
+TKT00148,CO040,Onboarding Help,Low,in_progress,2024-05-16,,Support_D,1.0
+TKT00149,CO040,Onboarding Help,Medium,in_progress,2023-11-20,,Support_A,1.0
+TKT00150,CO040,Technical Issue,Critical,open,2024-03-19,2024-03-20,Support_D,
+TKT00151,CO041,Onboarding Help,Critical,closed,2023-11-23,2023-11-26,Support_A,
+TKT00152,CO041,Technical Issue,Critical,open,2023-08-24,2023-09-05,Support_A,3.0
+TKT00153,CO041,Onboarding Help,High,closed,2023-09-18,2023-10-01,Support_C,3.0
+TKT00154,CO041,Technical Issue,Medium,in_progress,2023-10-13,2023-10-14,Support_B,4.0
+TKT00155,CO041,Billing Dispute,High,closed,2023-06-11,2023-06-19,Support_D,4.0
+TKT00156,CO042,Activation Issue,Critical,in_progress,2024-05-26,,Support_A,3.0
+TKT00157,CO042,Limit Increase Request,Critical,resolved,2023-07-26,2023-07-27,Support_C,5.0
+TKT00158,CO042,Billing Dispute,Critical,open,2024-01-14,2024-01-18,Support_B,4.0
+TKT00159,CO042,Billing Dispute,Medium,open,2024-04-09,2024-04-15,Support_C,3.0
+TKT00160,CO043,Fraud Alert,High,in_progress,2024-05-17,2024-05-24,Support_D,5.0
+TKT00161,CO043,Onboarding Help,Medium,in_progress,2024-04-08,2024-04-10,Support_D,4.0
+TKT00162,CO043,Limit Increase Request,Low,closed,2024-06-21,2024-06-26,Support_B,4.0
+TKT00163,CO043,Limit Increase Request,Critical,open,2023-11-26,2023-12-13,Support_C,1.0
+TKT00164,CO045,Technical Issue,Critical,in_progress,2023-12-22,2024-01-07,Support_B,
+TKT00165,CO045,Billing Dispute,High,closed,2023-08-05,,Support_D,2.0
+TKT00166,CO045,Onboarding Help,High,in_progress,2024-01-26,2024-02-09,Support_D,5.0
+TKT00167,CO045,Card Declined,High,in_progress,2023-07-31,,Support_C,
+TKT00168,CO045,Fraud Alert,High,resolved,2023-06-13,,Support_B,4.0
+TKT00169,CO045,Fraud Alert,Low,resolved,2024-03-28,2024-04-16,Support_D,4.0
+TKT00170,CO046,Technical Issue,Low,closed,2024-02-22,2024-03-10,Support_D,2.0
+TKT00171,CO046,Fraud Alert,Low,resolved,2024-03-16,,Support_C,5.0
+TKT00172,CO046,Fraud Alert,Low,in_progress,2023-06-20,,Support_C,3.0
+TKT00173,CO046,Card Declined,Critical,resolved,2024-01-25,2024-02-09,Support_C,3.0
+TKT00174,CO047,Activation Issue,Low,in_progress,2023-08-17,2023-08-31,Support_C,4.0
+TKT00175,CO047,Fraud Alert,Low,closed,2024-04-28,2024-05-14,Support_C,1.0
+TKT00176,CO047,Fraud Alert,Critical,open,2024-04-10,2024-04-14,Support_B,4.0
+TKT00177,CO047,Card Declined,Medium,in_progress,2024-03-06,2024-03-24,Support_D,5.0
+TKT00178,CO047,Card Declined,High,closed,2024-04-02,2024-04-06,Support_D,4.0
+TKT00179,CO047,Onboarding Help,High,open,2023-06-01,,Support_A,2.0
+TKT00180,CO047,Limit Increase Request,Medium,in_progress,2024-03-21,2024-04-10,Support_D,4.0
+TKT00181,CO047,Onboarding Help,High,closed,2024-04-09,,Support_B,1.0
+TKT00182,CO047,Onboarding Help,Low,closed,2024-06-25,,Support_B,4.0
+TKT00183,CO047,Technical Issue,Low,closed,2023-12-26,,Support_B,2.0
+TKT00184,CO047,Activation Issue,Medium,open,2024-06-26,2024-07-03,Support_B,2.0
+TKT00185,CO047,Billing Dispute,High,closed,2024-06-16,,Support_C,1.0
+TKT00186,CO047,Statement Query,High,closed,2024-04-08,2024-04-21,Support_D,1.0
+TKT00187,CO047,Fraud Alert,Medium,in_progress,2023-11-08,2023-11-18,Support_C,3.0
+TKT00188,CO048,Card Declined,Low,open,2024-04-30,2024-05-06,Support_B,5.0
+TKT00189,CO048,Billing Dispute,Low,open,2024-04-11,2024-04-20,Support_B,1.0
+TKT00190,CO048,Statement Query,Low,in_progress,2023-11-29,2023-12-12,Support_C,4.0
+TKT00191,CO048,Card Declined,Low,open,2024-02-24,2024-03-09,Support_B,2.0
+TKT00192,CO049,Card Declined,High,open,2023-11-09,2023-11-19,Support_C,
+TKT00193,CO049,Billing Dispute,Critical,closed,2024-01-20,2024-01-29,Support_D,1.0
+TKT00194,CO049,Onboarding Help,Critical,resolved,2024-04-29,,Support_B,2.0
+TKT00195,CO049,Technical Issue,High,resolved,2023-10-01,,Support_A,1.0
+TKT00196,CO049,Onboarding Help,Critical,closed,2024-03-09,2024-03-20,Support_A,4.0
+TKT00197,CO049,Statement Query,Low,closed,2024-06-02,2024-06-08,Support_C,1.0
+TKT00198,CO049,Fraud Alert,Low,closed,2023-06-08,2023-06-26,Support_B,
+TKT00199,CO049,Billing Dispute,Medium,in_progress,2023-09-01,2023-09-13,Support_D,3.0
+TKT00200,CO049,Statement Query,High,closed,2024-05-24,,Support_A,2.0
+TKT00201,CO049,Limit Increase Request,High,closed,2024-05-03,,Support_D,
+TKT00202,CO049,Card Declined,Low,resolved,2023-08-28,2023-09-07,Support_A,3.0
+TKT00203,CO049,Limit Increase Request,High,in_progress,2024-05-13,2024-05-24,Support_B,3.0
+TKT00204,CO049,Technical Issue,Medium,closed,2024-04-18,,Support_A,4.0
+TKT00205,CO049,Activation Issue,Medium,in_progress,2024-05-21,,Support_D,3.0
+TKT00206,CO049,Card Declined,Critical,in_progress,2023-07-08,2023-07-17,Support_A,5.0
+TKT00207,CO050,Billing Dispute,High,open,2023-06-10,2023-06-28,Support_C,
+TKT00208,CO050,Technical Issue,High,open,2023-11-09,,Support_B,1.0
+TKT00103,CO026,Fraud Alert,Critical,closed,2023-07-26,,Support_B,1.0
+TKT00158,CO042,Billing Dispute,Critical,open,2024-01-14,2024-01-18,Support_B,4.0
+TKT00006,CO003,Limit Increase Request,High,closed,2023-10-07,2023-10-11,Support_D,3.0
+TKT00170,CO046,Technical Issue,Low,closed,2024-02-22,2024-03-10,Support_D,2.0
+TKT00161,CO043,Onboarding Help,Medium,in_progress,2024-04-08,2024-04-10,Support_D,4.0
